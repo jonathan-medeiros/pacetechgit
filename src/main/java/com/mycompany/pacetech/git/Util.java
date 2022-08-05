@@ -14,6 +14,9 @@ public class Util {
     public static void main(String[] args){
         
         System.out.println("Novo método");
+        
+        System.out.println("Novo método2");
+        
     }
     
 }
